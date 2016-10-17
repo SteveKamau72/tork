@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845167522440",
+    "project_id": "firebase-tork"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845167522440:android:cb2be083a0d3ebd0",
+        "android_client_info": {
+          "package_name": "com.tork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845167522440-j28nqv7ct68blm7b6knvenpdebfmo1kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tork",
+            "certificate_hash": "D8BF9515BAAF86124A8464E4E49C44B36B961312"
+          }
+        },
+        {
+          "client_id": "845167522440-ot94funuci5nrluhgqa3sht2fomaf41l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgZarja43lwdekklNk1lwchFYDuPoVFho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
